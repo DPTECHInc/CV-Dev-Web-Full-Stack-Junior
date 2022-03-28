@@ -1,0 +1,32 @@
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+.Home {
+    background-image: url("../assets/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.HomeText {
+    padding-top: 250px;
+}
+.Text1 {
+    font-size: 5rem;
+}
+.Text2 {
+    font-size: 3rem;
+}
+.Text3 {
+    font-size: 3rem;
+    padding-top: 12rem;
+    text-decoration: dashed;
+}
+.Text4 {
+    color: rgb(141, 35, 35);
+    font-size: 2rem;
+}
